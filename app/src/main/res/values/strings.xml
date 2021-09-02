@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name" translatable="false">LuckyNumber</string>
+    <!-- MainActivity -->
+    <string name="main_welcome">Say hi to Tomioka!</string>
+    <string name="main_instructions">With your name and age, Tomioka guesses your lucky number</string>
+    <string name="main_editText_Name">Name</string>
+    <string name="main_editText_Age">Age</string>
+    <string name="main_button">Calculated...</string>
+    <!-- MainActivity -->
+</resources>

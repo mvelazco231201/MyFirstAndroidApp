@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MainActivity -->
+    <string name="main_welcome">Saluda a Tomioka!</string>
+    <string name="main_instructions">Con tu nombre y edad, Tomioka adivina tu número de la suerte</string>
+    <string name="main_editText_Name">Nombre</string>
+    <string name="main_editText_Age">Edad</string>
+    <string name="main_button">Calcular...</string>
+    <!-- MainActivity -->
+</resources>
